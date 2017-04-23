@@ -2,6 +2,9 @@ body {
 background color: #edeef9;
 }
 
+.section-title {
+text-align: center;
+}
 
 .date {
 float: right;
