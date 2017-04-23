@@ -1,3 +1,8 @@
 body {
 background color: #edeef9;
 }
+
+
+.date {
+float: right;
+}
