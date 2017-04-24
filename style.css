@@ -30,7 +30,7 @@ body {
 
 ul {
   list-style-type: circle;
-  padding: 0;
+  padding-top: 0;
 }
 
 .block-date {
