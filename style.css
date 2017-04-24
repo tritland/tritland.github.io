@@ -6,6 +6,18 @@ background color: #edeef9;
 text-align: center;
 }
 
+.address {
+text-align: left;
+}
+
+.phone {
+text-align: center;
+}
+
+.email {
+text-align: right;
+}
+
 .section-title {
 text-align: center;
 }
