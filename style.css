@@ -7,14 +7,17 @@ text-align: center;
 }
 
 #address {
+width: 33.3333%;
 text-align: left;
 }
 
 #phone {
+width: 33.3333%;
 text-align: center;
 }
 
 #email {
+width: 33.3333%;
 text-align: right;
 }
 
