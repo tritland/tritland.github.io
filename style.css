@@ -27,6 +27,9 @@ body {
   border-bottom: thin solid black;
 }
 	
+p ul{
+margin: 0;
+  padding: 0;
 }
 
 ul {
