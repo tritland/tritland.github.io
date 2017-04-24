@@ -29,12 +29,13 @@ body {
 }
 
 p, ul {
-  margin: 10px
+  margin: 2px
 	
 }
 
 ul {
   list-style-type: circle;
+  margin-left: 20px;
 }
 
 .block-date {
