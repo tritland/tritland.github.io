@@ -28,10 +28,13 @@ body {
   padding: 0px;
 }
 
+p, ul {
+  margin: 10px
+	
+}
+
 ul {
   list-style-type: circle;
-  padding-top: 0;
-  margin-top: 0;
 }
 
 .block-date {
