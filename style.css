@@ -24,10 +24,8 @@ body {
   padding-top: 2cm;
 }
 
-.date {
-  
-  display: inline-block;
-  float: right;
+.block-date {
+font-weight: bold;
 }
 
 .float-left {
