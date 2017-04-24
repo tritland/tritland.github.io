@@ -2,19 +2,19 @@ body {
 background color: #edeef9;
 }
 
-.name {
+#name {
 text-align: center;
 }
 
-.address {
+#address {
 text-align: left;
 }
 
-.phone {
+#phone {
 text-align: center;
 }
 
-.email {
+#email {
 text-align: right;
 }
 
