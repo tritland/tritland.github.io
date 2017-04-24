@@ -2,9 +2,8 @@ body {
   font: 16px Arial, Sans-Serif;
 	background-image: url("background image blue.jpg");
 	background-size: auto;
-	background-size: contain;
+	background-size: cover;
 	background-position: center center;
-  	background-repeat: no-repeat;
 }
 
 #container {
