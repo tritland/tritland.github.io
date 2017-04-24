@@ -25,7 +25,7 @@ body {
 .section-title {
   text-align: center;
   border-bottom: thin solid black;
-  padding: -10px;
+  padding: 1;
 }
 	
 }
@@ -33,7 +33,7 @@ body {
 ul {
   list-style-type: circle;
   margin-left: 20px;
-  margin-top: 5px;
+  margin-top: 2;
 }
 
 .block-date {
