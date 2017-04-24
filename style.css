@@ -6,21 +6,8 @@ background color: #edeef9;
 text-align: center;
 }
 
-#address {
-width: 33.3333%;
-text-align: left;
-float: left;
-}
-
-#phone {
-width: 33.3333%;
+#contact-info {
 text-align: center;
-}
-
-#email {
-width: 33.3333%;
-text-align: right;
-float: right;
 }
 
 .section-title {
