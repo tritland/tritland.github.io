@@ -1,7 +1,7 @@
 body {
   font: 16px Arial, Sans-Serif;
 	background-image: url("background image blue.jpg");
-	background-size: cover;
+	background-size: 100% 100%;
 	background-position: center center;
 	background-repeat: repeat-y;
 }
