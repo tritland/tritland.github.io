@@ -20,6 +20,7 @@ body {
 
 .section-title {
   text-align: center;
+  border-bottom: solid black;
 }
 
 .date {
