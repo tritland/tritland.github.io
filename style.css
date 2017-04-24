@@ -24,7 +24,7 @@ body {
 
 .test {
 
-display: inline;}
+display: inline-block;}
 
 .date {
   float: right;
