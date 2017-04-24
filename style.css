@@ -1,24 +1,24 @@
 body {
-background color: #edeef9;
+  font: 16px Arial, Sans-Serif;
+  background color: #edeef9;
 }
 
 #container {
-	
-	border:2px solid grey;
+  border:2px solid grey;
 }
 
 #name {
-text-align: center;
+  text-align: center;
 }
 
 #contact-info {
-text-align: center;
+  text-align: center;
 }
 
 .section-title {
-text-align: center;
+  text-align: center;
 }
 
 .date {
-float: right;
+  float: right;
 }
