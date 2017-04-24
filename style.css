@@ -21,7 +21,7 @@ body {
 .section-title {
   text-align: center;
   border-bottom: thin solid black;
-  padding-bottom: 50%;
+  padding-top: 50%;
 }
 
 .date {
