@@ -1,10 +1,11 @@
 body {
   font: 16px Arial, Sans-Serif;
-  background color: #edeef9;
+  background-image: url("http://www.shunvmall.com/data/out/186/46932910-plain-background-images.jpg");
 }
 
 #container {
-  border:2px solid grey;
+  width: 800px;
+	margin: 40px auto 60px;
 }
 
 #name {
