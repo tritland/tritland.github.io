@@ -27,15 +27,13 @@ body {
   border-bottom: thin solid black;
   padding: -10px;
 }
-
-p, ul {
-  margin: 2px
 	
 }
 
 ul {
   list-style-type: circle;
   margin-left: 20px;
+  margin-top: 5px;
 }
 
 .block-date {
