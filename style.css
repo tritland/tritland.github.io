@@ -26,6 +26,9 @@ body {
   text-align: center;
   border-bottom: thin solid black;
   font-weight: bold;
+  margin-bottom: 0px;
+  display: inline-block
+  
 }	
 
 ul {
