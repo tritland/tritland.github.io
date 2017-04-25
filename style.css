@@ -1,13 +1,13 @@
 body {
   font: 16px Arial, Sans-Serif;
-	background-image: url("background image blue.jpg");
-	background-size: 100% 100%;
-	background-position: center center;
+  background-image: url("background image blue.jpg");
+  background-size: 100% 100%;
+  background-position: center center;
 }
 
 #container {
   width: 800px;
-	margin: 40px auto 60px;
+  margin: 40px auto 60px;
 }
 
 #name {
@@ -40,7 +40,7 @@ ul {
 }
 
 p {
-margin-bottom: 5px;
+  margin-bottom: 5px;
 }
 
 .block-date {
