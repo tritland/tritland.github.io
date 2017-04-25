@@ -23,10 +23,11 @@ body {
 }
 
 .section-title {
+  font-size: 18px;
   text-align: center;
   border-bottom: thin solid black;
   font-weight: bold;
-  margin-bottom: 8px;
+  height: 9px;
 }	
 
 ul {
