@@ -5,6 +5,10 @@ body {
 	background-position: center center;
 }
 
+h3 {
+  padding: 0px;
+} 
+
 #container {
   width: 800px;
 	margin: 40px auto 60px;
