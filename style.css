@@ -25,7 +25,8 @@ body {
 .section-title {
   text-align: center;
   border-bottom: thin solid black;
-  font-weight: bold
+  font-weight: bold;
+  margin-bottom: 8px;
 }	
 
 ul {
@@ -37,7 +38,7 @@ ul {
 
 .block-date {
   font-weight: bold;
-  height: 25px
+  height: 25px;
 }
 
 .float-left {
