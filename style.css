@@ -24,9 +24,8 @@ body {
 
 .section-title {
   text-align: center;
-  height: 25px;
   border-bottom: thin solid black;
-  margin-bottom: 10px;
+  font-weight: bold
 }	
 
 ul {
