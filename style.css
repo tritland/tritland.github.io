@@ -39,9 +39,11 @@ ul {
 }
 
 .float-left {
-float: left;
+  float: left;
+  margin-bottom: 0px;
 }
 
 .float-right {
-float: right;
+  float: right;
+  margin-bottom: 0px;
 }
