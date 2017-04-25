@@ -30,11 +30,13 @@ body {
 
 ul {
   list-style-type: circle;
-  margin-left: 0px 0px 0px 20px;
+  margin: 0px 0px 0px 20px;
   display: inline-block
-
 }
 
+p {
+margin-bottom: 0px;
+}
 
 .block-date {
   font-weight: bold;
