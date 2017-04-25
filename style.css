@@ -12,6 +12,9 @@ body {
 
 #name {
   text-align: center;
+  height: 25px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
 }
 
 #contact-info {
@@ -29,12 +32,6 @@ body {
   border-bottom: thin solid black;
   font-weight: bold;
 }	
-
-h1 {
-  margin-bottom: 0px;
-  padding-bottom: 0px;
-}
-
 
 ul {
   list-style-type: circle;
